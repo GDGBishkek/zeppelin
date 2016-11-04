@@ -57,8 +57,8 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest Bishkek 2016"
-eventDate: "September - November, 2016"
-typeoutTextValues: '"", "Season", "Bishkek", "Germany", "USA"'
+eventDate: "November, 5th, 2016"
+typeoutTextValues: '"", "Bishkek"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
