@@ -61,8 +61,8 @@ eventDate: "November, 5th, 2016"
 typeoutTextValues: '"", " Bishkek"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Стать спикером"}
+ - {permalink: "/#tickets", text: "Купить билеты"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
